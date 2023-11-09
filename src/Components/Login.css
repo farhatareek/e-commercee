@@ -1,0 +1,32 @@
+.facebookBtn{
+    background-color: blue;; text-align: start; color: #fff;
+}
+.facebookBtn:hover{
+    background-color: blue;
+}
+.facebookIcon {
+      z-index: 2;color: aliceblue;top: 5px;position: relative;
+}
+.googleIcon{
+  color: black;top: 5px;position: relative;
+}
+.googleBtn{
+    background-color: transparent;border: 2px solid black;text-align: start
+}
+.googleBtn:hover{
+    background-color: transparent;border: 2px solid black;
+}
+input {
+   border-top: none;border-right: none;border-left: none;
+    border-bottom: 0.5px solid rgb(224, 224, 224) !important;
+    outline: #eee;
+}
+.error{
+    color: red;
+}
+.creatAccount{
+    color: #ff5a00;
+}
+.submitionBtn{
+    background-color: #ff5a00;color: #fff;border: none;
+}

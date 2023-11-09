@@ -1,0 +1,41 @@
+form {
+    background-color: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+span i {
+    color: rgb(255, 148, 89);
+    height: 30px;width: 30px;
+    font-size: 20px;
+}
+.user-login{
+    background-color: rgb(246, 246, 246);
+    padding: 25px;
+    border-top: 2px rgb(255, 148, 89) solid;
+}
+.user-login button{
+    background-color: rgb(255, 90, 0);border: none;
+}
+.user-login button:hover{
+    background-color: rgb(255, 148, 89);
+}
+.accordion-item i{
+    color: rgb(255, 90, 0);
+    font-size: 20px;
+}
+.accordion  div:first-child p{
+    color: rgb(255, 90, 0);
+}
+.accordion-item span {
+    color: rgb(61, 61, 61);
+    font-size: 20px;
+}
+.accordion-button:focus{
+    color: rgb(255, 90, 0)  !important;
+    border-color: none;
+}
+.accordion-button:not(.collapsed) {
+    color: var(--bs-accordion-active-color);
+    background-color: rgb(246, 184, 151);
+   
+}

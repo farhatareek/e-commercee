@@ -1,0 +1,26 @@
+.card{
+  
+    flex-shrink: 0;
+    flex-basis: auto;
+    padding: 20px;
+    transition: box-shadow 0.2s ease-in-out, transform 0.35s ease-in-out;
+ 
+   }
+   .rowMarginZero {
+    margin: 0 !important;
+     }
+     .customRow {
+        margin-bottom: 50px !important; margin-top: 50px !important;
+     }
+.card img {
+ height: 40%;
+ 
+}
+.product-card-body{
+border-top: 1px solid #ddd;
+margin-top: 10px;
+}
+.card:hover{
+    box-shadow: 0 11px 11px 0 rgba(0, 0, 0,.16);
+    transform: translateY(-5px);
+}

@@ -1,0 +1,18 @@
+.CityCard{
+padding: 0;width: 370px;
+}
+.CityCard :hover .linkArrow a, .CityCard:hover {
+   color: #ff5a00;
+    }
+   
+
+@media only screen and (max-width: 600px) {
+    .CityCard  {
+      margin: 0;
+    }
+  }
+
+  .linkArrow a {
+    color: #000;
+  }
+

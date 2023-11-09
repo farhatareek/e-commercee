@@ -1,0 +1,10 @@
+
+.productBtn{
+    background-color: #ff5a00 !important;
+    color:#fff;border: none;
+    outline: none !important;
+}
+.productBtn:hover{
+    background-color:rgb(238, 150, 102) !important ;
+    color: #fff;
+}
