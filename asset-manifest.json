@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/e-commercee/static/css/main.990d773e.css",
-    "main.js": "/e-commercee/static/js/main.1234a7f7.js",
+    "main.css": "/e-commercee/static/css/main.3128448f.css",
+    "main.js": "/e-commercee/static/js/main.41afca6b.js",
     "static/js/787.0eeb1858.chunk.js": "/e-commercee/static/js/787.0eeb1858.chunk.js",
     "static/media/pasta-plate-with-tomatoes-slate (1).jpg": "/e-commercee/static/media/pasta-plate-with-tomatoes-slate (1).a00a667058e696304254.jpg",
     "static/media/delicious-marble-halva-with-sunflower-seeds-cocoa-powder-honey-top-view.jpg": "/e-commercee/static/media/delicious-marble-halva-with-sunflower-seeds-cocoa-powder-honey-top-view.a448b607dd48db9c3e93.jpg",
@@ -16,12 +16,12 @@
     "static/media/logo_playstore.svg": "/e-commercee/static/media/logo_playstore.45cb5c9335353fd9131f8dbcddc070be.svg",
     "static/media/logo.svg": "/e-commercee/static/media/logo.0eaf03d4e055a526d1de71742060e352.svg",
     "index.html": "/e-commercee/index.html",
-    "main.990d773e.css.map": "/e-commercee/static/css/main.990d773e.css.map",
-    "main.1234a7f7.js.map": "/e-commercee/static/js/main.1234a7f7.js.map",
+    "main.3128448f.css.map": "/e-commercee/static/css/main.3128448f.css.map",
+    "main.41afca6b.js.map": "/e-commercee/static/js/main.41afca6b.js.map",
     "787.0eeb1858.chunk.js.map": "/e-commercee/static/js/787.0eeb1858.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.990d773e.css",
-    "static/js/main.1234a7f7.js"
+    "static/css/main.3128448f.css",
+    "static/js/main.41afca6b.js"
   ]
 }
