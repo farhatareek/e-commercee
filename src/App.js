@@ -41,7 +41,7 @@ function App({current}) {
                 <CityService/>
                 < TalbatApp/>
                 </Route>
-                <Route exact path='/' component={MainHome} >
+                <Route exact path='/{e-commercee}' component={MainHome} >
                 <MainHome/>
                 </Route>
                 <Route exact path='/contact' component={Contact} >

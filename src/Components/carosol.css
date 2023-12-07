@@ -3,7 +3,7 @@ margin: 0 !important;
 
 }
 .carousel img{
-  
+  max-height: fit-content;
 }
  .carousel-control-prev span , .carousel-control-next span{
     background-color: black !important;
