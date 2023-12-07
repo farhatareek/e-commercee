@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/e-commercee/static/css/main.473d290d.css",
+    "main.css": "/e-commercee/static/css/main.aa0b485e.css",
     "main.js": "/e-commercee/static/js/main.52687669.js",
     "static/js/787.0eeb1858.chunk.js": "/e-commercee/static/js/787.0eeb1858.chunk.js",
     "static/media/pasta-plate-with-tomatoes-slate (1).jpg": "/e-commercee/static/media/pasta-plate-with-tomatoes-slate (1).a00a667058e696304254.jpg",
@@ -16,12 +16,12 @@
     "static/media/logo_playstore.svg": "/e-commercee/static/media/logo_playstore.45cb5c9335353fd9131f8dbcddc070be.svg",
     "static/media/logo.svg": "/e-commercee/static/media/logo.0eaf03d4e055a526d1de71742060e352.svg",
     "index.html": "/e-commercee/index.html",
-    "main.473d290d.css.map": "/e-commercee/static/css/main.473d290d.css.map",
+    "main.aa0b485e.css.map": "/e-commercee/static/css/main.aa0b485e.css.map",
     "main.52687669.js.map": "/e-commercee/static/js/main.52687669.js.map",
     "787.0eeb1858.chunk.js.map": "/e-commercee/static/js/787.0eeb1858.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.473d290d.css",
+    "static/css/main.aa0b485e.css",
     "static/js/main.52687669.js"
   ]
 }
