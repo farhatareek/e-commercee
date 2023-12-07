@@ -33,7 +33,7 @@ const Cart = ({ cart }) => {
           <CartItem key={item.id} item={item} />
         ))}
       </div>
-      <div className=" card  justify-content-center cartTotal h-50 mb-5 mt-5 col-lg-4 col-sm-12">
+      <div className=" card  justify-content-center cartTotal h-50 mb-5 mt-5 col-lg-3 col-sm-12">
         <h4 className="summarytitle">Cart Summary</h4>
         <div className="summaryprice">
           <span>TOTAL: ({totalItems} items)</span>

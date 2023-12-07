@@ -6,7 +6,7 @@ import MainHome from './MainHome';
   return (
     <>
     
-    <div id="carouselExampleIndicators" className="carousel mt-3  container-fulid slide" data-bs-ride="carousel">
+    <div id="carouselExampleIndicators" className="carousel  container-fulid slide" data-bs-ride="carousel">
   <div className="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -14,7 +14,7 @@ import MainHome from './MainHome';
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src={require('../assets/landing-bg-dishes-min.jpg')} className="d-block h-50 w-100" alt="..."/>
+      <img src={require('../assets/pasta-plate-with-tomatoes-slate (1).jpg')} className="d-block h-50 w-100" alt="..."/>
     </div>
     <div className="carousel-item">
       <img src={require('../assets/top-view-circular-food-frame.jpg')} className="d-block h-50 w-100" alt="..."/>
