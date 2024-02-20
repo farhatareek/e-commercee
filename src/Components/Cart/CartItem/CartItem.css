@@ -42,12 +42,12 @@
   
   .cartItemqty input {
     padding: 10px;
-    margin-left: 0.4rem;
+    margin:0 0 15px 0.4rem;
     width: 60px;
     display: block;
-    border-radius: 10px;
+    border-radius: 15px;
     border: 1px solid #000;
-    outline: none;
+ 
   }
   
   .actionsdeleteItemBtn{

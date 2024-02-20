@@ -1,16 +1,17 @@
-.carousel{
-margin: 0 !important;
-
+.gridcontainerBox{
+   background-color: rgb(255, 245, 249);
+   justify-content: space-between;
 }
-.carousel img{
-  max-height: fit-content;
+.locationContainer{
+   display: flex;
+   flex-wrap: wrap;
 }
- .carousel-control-prev span , .carousel-control-next span{
-    background-color: black !important;
+.locationBtn:hover{
+background-color: #ffa16e !important;
 }
-
 @media only screen and (max-width: 600px) {
-   .carousel {
-      display: none;
-    }
-  }
+   .mainHomeContainer {
+      width: 90%;
+     margin:  25px 0 25px 25px;
+   }
+ }

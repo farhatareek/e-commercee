@@ -17,7 +17,7 @@ const  MainHome =() =>{
 </div>
         </div>
     <div className='row d-flex playStore pb-4 justify-content-center'>
-        <a className='col-lg-2 w-50 col-sm-3 m-1' href="https://play.google.com/store/apps/details?id=com.talabat&amp;referrer=adjust_reftag%3Dc2VDcRfodCSbL%26utm_source%3DCooperations%26utm_campaign%3Dother_campaigns_and_eat_ma_bh_display%26utm_content%3DFooter_download&amp;utm_campaign=other_campaigns_web_eat_ma_bh_display&amp;utm_medium=campaigns&amp;utm_source=Footer_download" target="_blank" rel="noreferrer"><img className
+        <a  className='col-lg-2 w-50 col-sm-3 m-1' href="https://play.google.com/store/apps/details?id=com.talabat&amp;referrer=adjust_reftag%3Dc2VDcRfodCSbL%26utm_source%3DCooperations%26utm_campaign%3Dother_campaigns_and_eat_ma_bh_display%26utm_content%3DFooter_download&amp;utm_campaign=other_campaigns_web_eat_ma_bh_display&amp;utm_medium=campaigns&amp;utm_source=Footer_download" target="_blank" rel="noreferrer"><img className
 ="w-auto d-block app-link" src={playstore} alt=""/></a>
         <a className='col-lg-2 w-50  col-sm-3 m-1' href="https://play.google.com/store/apps/details?id=com.talabat&amp;referrer=adjust_reftag%3Dc2VDcRfodCSbL%26utm_source%3DCooperations%26utm_campaign%3Dother_campaigns_and_eat_ma_bh_display%26utm_content%3DFooter_download&amp;utm_campaign=other_campaigns_web_eat_ma_bh_display&amp;utm_medium=campaigns&amp;utm_source=Footer_download" target="_blank" rel="noreferrer"><img className
 ="w-auto d-block app-link" src={appstore} alt=""/></a>

@@ -28,12 +28,12 @@ const Cart = ({ cart }) => {
 
   return (
     <div className="row container  d-flex justify-content-center  ">
-      <div className="col-lg-8 m-0  p-5 col-sm-12">
+      <div className="col-lg-4 m-0  p-5 col-sm-12">
         {cart.map((item) => (
           <CartItem key={item.id} item={item} />
         ))}
       </div>
-      <div className=" card  justify-content-center cartTotal h-50 mb-5 mt-5 col-lg-3 col-sm-12">
+      <div className=" card  justify-content-center cartTotal h-25 mb-5 mt-5 col-lg-3 col-sm-12">
         <h4 className="summarytitle">Cart Summary</h4>
         <div className="summaryprice">
           <span>TOTAL: ({totalItems} items)</span>
